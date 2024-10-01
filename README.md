@@ -19,6 +19,6 @@ Actionable insights to support decision-making.
 
 
 Getting Started : 
-Clone the repo: git clone https://github.com/your-repository-url
-Install dependencies: pip install -r requirements.txt
-Run: streamlit run app.py
+1. Clone the repo: git clone https://github.com/your-repository-url
+2. Install dependencies: pip install -r requirements.txt
+3. Run: streamlit run app.py

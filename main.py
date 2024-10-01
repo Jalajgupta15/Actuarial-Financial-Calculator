@@ -23,7 +23,7 @@ st.title("Actuarial Financial Calculator")
 st.markdown("""
     <style>
     .stApp {
-        background-image: url("https://euromed-economists.org/wp-content/uploads/2018/01/moneyfinance-1.jpg");
+        background-image: url("https://globalnaps.org/wp-content/uploads/2017/10/Finance-banking.jpg");
         background-size: cover;
     }
     </style>

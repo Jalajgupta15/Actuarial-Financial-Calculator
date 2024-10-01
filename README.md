@@ -11,12 +11,14 @@ The Actuarial Financial Calculator is a web-based tool built with Streamlit to p
 4. Business Valuation: Estimate business worth using models like DCF.
 5. Market Trends: Get real-time market insights to inform business strategies.
 
+
 Features:
 Upload financial data for comprehensive analysis.
 Interactive dashboards for clear data visualization.
 Actionable insights to support decision-making.
 
-Getting Started
+
+Getting Started : 
 Clone the repo: git clone https://github.com/your-repository-url
 Install dependencies: pip install -r requirements.txt
 Run: streamlit run app.py

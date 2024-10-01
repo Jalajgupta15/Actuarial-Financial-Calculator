@@ -13,9 +13,9 @@ The Actuarial Financial Calculator is a web-based tool built with Streamlit to p
 
 
 Features:
-Upload financial data for comprehensive analysis.
-Interactive dashboards for clear data visualization.
-Actionable insights to support decision-making.
+- Upload financial data for comprehensive analysis.
+- Interactive dashboards for clear data visualization.
+- Actionable insights to support decision-making.
 
 
 Getting Started : 

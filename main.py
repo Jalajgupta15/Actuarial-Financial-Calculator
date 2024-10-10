@@ -23,7 +23,7 @@ st.title("Actuarial Financial Calculator")
 st.markdown("""
     <style>
     .stApp {
-        background-image: url("https://globalnaps.org/wp-content/uploads/2017/10/Finance-banking.jpg");
+        background-image: url("https://akm-img-a-in.tosshub.com/businesstoday/images/story/202306/forex-vs-stocks_1_4-sixteen_nine.jpg?size=948:533");
         background-size: cover;
     }
     </style>
